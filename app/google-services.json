@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "5826109939",
+    "project_id": "demofirebase-4e593",
+    "storage_bucket": "demofirebase-4e593.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5826109939:android:464dc06f83e6e8edf83286",
+        "android_client_info": {
+          "package_name": "vn.iotstart.bttuan10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaBeUEetN56Qm1yG0A1GMpzJFijZGTP3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
