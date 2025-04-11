@@ -45,6 +45,7 @@ dependencies {
     implementation ("com.google.android.gms:play-services-auth:21.3.0") // ("Google Sign-In")
     implementation (platform("com.google.firebase:firebase-bom:31.2.3")) // ("Firebase BOM")
     implementation ("com.google.firebase:firebase-auth") // ("Firebase Auth")
+    implementation ("com.google.android.gms:play-services-auth:20.4.0")
     implementation ("com.google.firebase:firebase-database") // ("Firebase Realtime Database")
     implementation ("com.google.firebase:firebase-database-ktx") // ("Firebase Database Kotlin Extensions")
     implementation ("com.google.firebase:firebase-firestore") // ("Firebase Firestore")
@@ -56,8 +57,9 @@ dependencies {
     implementation ("com.squareup.retrofit2:converter-gson:2.9.0")
 //Gson.
     implementation ("com.pierfrancescosoffritti.androidyoutubeplayer:core:12.1.0")
-
     implementation ("com.google.code.gson:gson:2.10.1")
+
+    implementation ("com.github.TutorialsAndroid:GButton:v1.0.19")
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)
