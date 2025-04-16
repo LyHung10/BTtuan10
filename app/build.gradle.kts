@@ -58,6 +58,8 @@ dependencies {
 //Gson.
     implementation ("com.pierfrancescosoffritti.androidyoutubeplayer:core:12.1.0")
     implementation ("com.google.code.gson:gson:2.10.1")
+    implementation ("com.cloudinary:cloudinary-android:2.3.1")
+    implementation ("com.github.dhaval2404:imagepicker:2.1")
 
     implementation ("com.github.TutorialsAndroid:GButton:v1.0.19")
     testImplementation(libs.junit)
